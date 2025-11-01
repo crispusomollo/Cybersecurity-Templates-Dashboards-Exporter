@@ -6,10 +6,10 @@ It includes ready-made `.docx`, `.xlsx`, and `.csv` templates — complete with 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/crispusomollo/cybersecurity-templates-dashboards)
-![Open Issues](https://img.shields.io/github/issues/crispusomollo/cybersecurity-templates-dashboards)
-![Repo Size](https://img.shields.io/github/repo-size/crispusomollo/cybersecurity-templates-dashboards)
-![Top Language](https://img.shields.io/github/languages/top/crispusomollo/cybersecurity-templates-dashboards)
+![Last Commit](https://img.shields.io/github/last-commit/crispusomollo/cybersecurity-templates-dashboards-library)
+![Open Issues](https://img.shields.io/github/issues/crispusomollo/cybersecurity-templates-dashboards-library)
+![Repo Size](https://img.shields.io/github/repo-size/crispusomollo/cybersecurity-templates-dashboards-library)
+![Top Language](https://img.shields.io/github/languages/top/crispusomollo/cybersecurity-templates-dashboards-library)
 
 ---
 
