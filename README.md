@@ -6,10 +6,10 @@ It includes ready-made `.docx`, `.xlsx`, and `.csv` templates — complete with 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/crispusomollo/cybersecurity-templates-dashboards-library)
-![Open Issues](https://img.shields.io/github/issues/crispusomollo/cybersecurity-templates-dashboards-library)
-![Repo Size](https://img.shields.io/github/repo-size/crispusomollo/cybersecurity-templates-dashboards-library)
-![Top Language](https://img.shields.io/github/languages/top/crispusomollo/cybersecurity-templates-dashboards-library)
+![Last Commit](https://img.shields.io/github/last-commit/crispusomollo/cybersecurity-templates-dashboards-exporter)
+![Open Issues](https://img.shields.io/github/issues/crispusomollo/cybersecurity-templates-dashboards-exporter)
+![Repo Size](https://img.shields.io/github/repo-size/crispusomollo/cybersecurity-templates-dashboards-exporter)
+![Top Language](https://img.shields.io/github/languages/top/crispusomollo/cybersecurity-templates-dashboards-exporter)
 
 ---
 
@@ -30,8 +30,8 @@ It includes ready-made `.docx`, `.xlsx`, and `.csv` templates — complete with 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/crispusomollo/cybersecurity-templates-dashboards.git
-cd cybersecurity-templates-dashboards
+git clone https://github.com/crispusomollo/cybersecurity-templates-dashboards-exporter.git
+cd cybersecurity-templates-dashboards-exporter
 pip install -r requirements.txt
 ```
 
@@ -48,8 +48,8 @@ python generate_cybersecurity_templates.py
 This will create a folder and ZIP archive:
 
 ```
-Cybersecurity_Templates_&_Dashboards/
-Cybersecurity_Templates_&_Dashboards.zip
+Cybersecurity_Templates_&_Dashboards_Exporter/
+Cybersecurity_Templates_&_Dashboards_Exporter.zip
 ```
 
 ---
